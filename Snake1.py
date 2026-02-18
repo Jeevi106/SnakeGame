@@ -37,3 +37,4 @@ p.penup()
 p.hideturtle()
 p.goto(0, 250)
 p.write("Score : 0  High Score : 0", align="center", font=("candara", 24, "bold"))
+##version1
