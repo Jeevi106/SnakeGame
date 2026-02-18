@@ -37,4 +37,10 @@ p.penup()
 p.hideturtle()
 p.goto(0, 250)
 p.write("Score : 0  High Score : 0", align="center", font=("candara", 24, "bold"))
-##version1
+##git checkout -b feature/add-greeting
+##git add app.py
+##git commit -m "Added additional greeting message"
+
+##git checkout main
+##git merge feature/add-greeting
+##git push origin main
